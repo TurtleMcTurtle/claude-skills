@@ -1,6 +1,6 @@
 # Core web framework
 Django==4.1.7
-djangorestframework==3.14.0
+djangorestframework==3.18.2
 django-cors-headers==3.14.0
 django-environ==0.10.0
 django-extensions==3.2.1
